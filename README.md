@@ -6,10 +6,11 @@ Welcome!
 # User Experience (UX)
   <ul>User Stories</ul>
   <ul>Design</ul>
-  <ul>Wireframes</ul>
+  <ul>Wireframes
     <li>Homepage Wireframe</li>
     <li>Mobile Wireframe</li>
     <li>Sign Up Wireframe</li>
+  </ul>
 
 # Technologies Used
 
