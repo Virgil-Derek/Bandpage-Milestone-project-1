@@ -3,19 +3,39 @@ Bandpage with User-Centric Frontend Design with HTML & CSS as Milestone created 
 
 Welcome! 
 
-# User Experience (UX)
-  <ul>User Stories</ul>
-  <ul>Design</ul>
-  <ul>Wireframes
-    <li>Homepage Wireframe</li>
-    <li>Mobile Wireframe</li>
-    <li>Sign Up Wireframe</li>
-  </ul>
+## User Experience (UX)
+* User Stories
+   * First time user 
+     a. 
+     b.
+     c.  
+   * Returning user
+     a.
+     b.
+     c.
+   * Frequent user
+     a.
+     b. 
+     c. 
+* Design
+  * Color scheme
+  * Typography
+  * Imagery
+   
+* Wireframes
+  - Homepage Wireframe
+  - Mobile Wireframe
+  - Sign Up on newsletter Wireframe
+  - Book Us Wireframe
+  
+* Requirements
+    1. Band/management should be easy enough to navigate through to add tour schedules, photographs and the latest news.
+    2. 
 
-# Technologies Used
+## Technologies Used
 
-# Deployment
+## Deployment
 
-# Credtis
+## Credtis
 
 
