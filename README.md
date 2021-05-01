@@ -33,6 +33,11 @@ Welcome!
     2. 
 
 ## Technologies Used
+  - [HTML5] (https://en.wikipedia.org/wiki/HTML5)
+  - CSS
+  - Balsamic.cloud
+  - Bootstrap.com
+  - Github/Gitpod
 
 ## Deployment
 
